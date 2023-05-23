@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  background-color: purple;
+  padding: 20px;
+}
+
+.textaline {
+  text-align: center;
+}
+
+.fontstyle {
+  font-family: "Pangolin", cursive;
+}
